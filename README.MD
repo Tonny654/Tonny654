@@ -10,8 +10,8 @@
       I'm not bad with Réact, I like the principal of Next.js, doing everything at one place ⚡️.<br/>
       I live in Lens - Haut de france - France, and like it a lot!<br/>
       Almost forgot, if you want to reach me send an email,
-      <a href="mailto:Lambal.tony@outlook.fr?subject=Bonjour!">
-       Lambal.tony@outlook.fr
+      <a href="mailto:"#"?subject=Bonjour!">
+       "#"
       </a>
       <br/><br/>
       Following, there are some illustration of me when I try to solve a bug.
