@@ -7,7 +7,7 @@
     </td>
     <td>
       I'm a Front-End junior developer.<br/>
-      I'm  bad with Réact, I like the principal of Next.js, doing everything at one place ⚡️.<br/>
+      I'm  begin with Réact, I like the principal of Next.js, doing everything at one place ⚡️.<br/>
       I live in Lens - Haut de france - France, and like it a lot!<br/>
       Almost forgot, if you want to reach me send an email,
       <a href="mailto:"#"?subject=Bonjour!">
